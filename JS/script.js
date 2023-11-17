@@ -74,7 +74,6 @@ document.addEventListener("DOMContentLoaded", function () {
           return index;
         }
       }
-
       return -1;
     }
 
